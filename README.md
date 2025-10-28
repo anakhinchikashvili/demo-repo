@@ -1,2 +1,2 @@
-##demo-repo
-#This is a git demo repo.
+demo-repo
+This is a git demo repo.
